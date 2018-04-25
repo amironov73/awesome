@@ -30,4 +30,5 @@
 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [1findr](https://1findr.1science.com/home)
 
